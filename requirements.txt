@@ -1,11 +1,9 @@
 flask
 gunicorn
-opencv-python
+opencv-python-headless==4.9.0.80
 numpy
 pillow
 scikit-image
 face-recognition
 requests
 imagehash
-requests
-
