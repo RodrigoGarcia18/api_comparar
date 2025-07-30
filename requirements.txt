@@ -1,0 +1,13 @@
+flask
+gunicorn
+opencv-python
+numpy
+pillow
+scikit-image
+face-recognition
+requests
+tensorflow
+torch
+torchvision
+deepface
+imagehash
